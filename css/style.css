@@ -224,6 +224,10 @@ li {
     font-size: 13px;
 }
 
+.ita {
+    align-items: center;
+}
+
 #ita {
     width: 30px;
     height: 20px;
